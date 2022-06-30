@@ -1,5 +1,4 @@
-### Hi there 👋
-![alt text](https://websultanate.com/wp-content/uploads/2019/07/logo-white.png)
+![Websultanate](https://websultanate.com/wp-content/uploads/2019/07/logo-white.png)
 <!--
 **ashrafwbst/ashrafwbst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
